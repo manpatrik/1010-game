@@ -1,0 +1,4 @@
+hu\alkfejl\config\EredmenyConfiguration.class
+hu\alkfejl\dao\EredmenyDAO.class
+hu\alkfejl\model\Eredmeny.class
+hu\alkfejl\dao\EredmenyDAOinpl.class
