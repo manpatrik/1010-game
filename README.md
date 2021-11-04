@@ -10,3 +10,6 @@ A népszerű 1010 játék mintájára készült. Java maven projektként.
 * A felhasználó 3x kérhet másik 3 elemet a kapottak helyett, ha szüksége van rá, ez szintén 50 pontjába kerül
 
 A játékos akkor veszít, ha már nincs hova lerakja az elemeket és az összes segítsége elfogyott (vagy van még segítsége, de nincs rá pontja, hogy "megvegye")
+
+
+jatek/jatek-core/src/main/resources/application.properties -ben át kell írni az adatbázis elérését "út_a_gyökértől/jatek/jatek-core/src/main/resources/Eredmenyek.db"
